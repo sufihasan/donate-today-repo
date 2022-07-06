@@ -9,6 +9,7 @@ body {
 
     background-image: url("images/donation13.jpg");
     background-size: 100%;
+    background-repeat: no-repeat;
     color: white;
     text-align: center;
     padding: 100px 100px;
@@ -27,4 +28,71 @@ body {
 
 h1 {
     font-size: 50px;
+}
+
+.donate-today {
+
+    text-align: center;
+
+}
+
+.donate-today-taka {
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.donate-today-taka a {
+
+    text-decoration: none;
+    background-color: rgba(184, 169, 169, 0.2);
+    padding: 50px 30px;
+    font-size: 30px;
+    font-weight: 900;
+    margin-right: 20px;
+    border-radius: 5px;
+    color: black;
+
+
+
+}
+
+.donate-today-taka hr {
+
+    margin-right: 20px;
+}
+
+hr {
+
+    width: 57%;
+    color: rgb(139, 142, 146);
+
+}
+
+.donate-today-now a {
+
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 20px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+
+.donate-today-p p {
+
+    font-size: 20px;
+    color: rgb(139, 142, 146);
+}
+
+.donate-today-now p {
+    font-size: 20px;
+    color: rgb(139, 142, 146);
+}
+
+#taka-2hun {
+
+    border: 2px solid red;
+
+    background-color: rgba(250, 99, 71, .25);
 }
