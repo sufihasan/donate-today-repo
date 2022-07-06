@@ -96,3 +96,75 @@ hr {
 
     background-color: rgba(250, 99, 71, .25);
 }
+
+#other-amount {
+
+    width: 50%;
+    text-align: center;
+    border: none;
+    border-bottom: 2px solid rgb(126, 108, 108);
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+
+/* donate plan part start */
+
+.donate-plan {
+
+    text-align: center;
+}
+
+.donate-plan-fse {
+
+    display: flex;
+    justify-content: center;
+    text-align: left;
+
+}
+
+#food {
+
+    width: 320px;
+    height: 290px;
+
+    margin-right: 20px;
+    background-color: rgba(79, 157, 166, .15);
+    border-radius: 5px;
+    padding: 50px 20px 0px 20px;
+}
+
+#shelter {
+
+    width: 320px;
+    height: 290px;
+
+    background-color: rgba(255, 89, 89, .15);
+    border-radius: 5px;
+    padding: 50px 20px 0px 20px;
+}
+
+#education {
+
+    width: 320px;
+    height: 290px;
+
+    margin-left: 20px;
+    background-color: rgba(255, 204, 102, .15);
+    border-radius: 5px;
+    padding: 50px 20px 0px 20px;
+}
+
+.icon {
+
+
+    width: 50px;
+    height: 50px;
+    margin: 10px 0;
+}
+
+.donate-plan-p p {
+    font-size: 20px;
+    color: rgb(139, 142, 146);
+}
+
+/* donate plan part end */
