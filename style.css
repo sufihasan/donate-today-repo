@@ -1,0 +1,30 @@
+body {
+
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+
+.top-ban {
+
+    background-image: url("images/donation13.jpg");
+    background-size: 100%;
+    color: white;
+    text-align: center;
+    padding: 100px 100px;
+
+}
+
+.top-ban a {
+
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 20px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 50px;
+}
