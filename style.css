@@ -16,7 +16,7 @@ body {
 
 }
 
-.top-ban a {
+.btn-orange {
 
     text-decoration: none;
     background-color: tomato;
@@ -69,15 +69,7 @@ hr {
 
 }
 
-.donate-today-now a {
 
-    text-decoration: none;
-    background-color: tomato;
-    padding: 15px 20px;
-    border-radius: 5px;
-    color: white;
-    font-size: 20px;
-}
 
 .donate-today-p p {
 
@@ -85,10 +77,7 @@ hr {
     color: rgb(139, 142, 146);
 }
 
-.donate-today-now p {
-    font-size: 20px;
-    color: rgb(139, 142, 146);
-}
+
 
 #taka-2hun {
 
@@ -167,4 +156,83 @@ hr {
     color: rgb(139, 142, 146);
 }
 
+
+#volunteer {
+
+    background-image: url("images/vol.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    padding: 50px 0px 0px 100px;
+
+}
+
+#volunteer p {
+    font-size: 20px;
+    color: black;
+    font-size: 20px;
+    margin: 0;
+
+}
+
 /* donate plan part end */
+
+.Get-My-Updates {
+
+    text-align: center;
+}
+
+#form-end {
+    height: 100px;
+    width: 500px;
+
+    margin: 0 auto;
+    padding: 60px 100px 0px 100px;
+    background-color: #FFF4D6;
+}
+
+#email {
+
+    background-color: #D9D9D9;
+    border: none;
+    height: 40px;
+    border-radius: 5px;
+    width: 300px;
+    margin-right: 0;
+    text-align: center;
+    font-weight: 700;
+    color: gray;
+    font-size: 15px;
+}
+
+
+#submit {
+
+    background-color: #FF5959;
+    border: none;
+    height: 40px;
+    width: 150px;
+    border-radius: 5px;
+    margin-left: 0;
+    color: white;
+    font-size: 15px;
+
+}
+
+footer {
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#humble {
+
+    color: tomato;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+
+
+}
